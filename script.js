@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = 'tapiwanashegeja471@gmail.com'; // replace before publishing
+const CONTACT_EMAIL = 'tapiwanashegeja471@gmail.com'; 
 
 const menu = document.querySelector('.menu'), nav = document.querySelector('nav');
 menu.addEventListener('click', () => {
