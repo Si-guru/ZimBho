@@ -12,7 +12,7 @@ document.querySelectorAll('nav a').forEach(a => a.addEventListener('click', () =
 }));
 
 const animals = [
-  ['African elephant','🐘','Big Five','Hwange, Mana Pools, Matusadona','Zimbabwe has one of the largest elephant populations in the world.'],
+  ['African elephant',"C:\Users\Tapiwanashe\Downloads\WhatsApp Image 2026-11-09 at 12.27.22.jpeg",'Big Five','Hwange, Mana Pools, Matusadona','Zimbabwe has one of the largest elephant populations in the world.'],
   ['Lion','🦁','Big Five','Hwange, Matusadona, Gonarezhou','Look for prides at waterholes at dawn and dusk.'],
   ['Leopard','🐆','Big Five','Matobo Hills, Gonarezhou, Hwange','Elusive and mostly nocturnal; Matobo is known for its leopards.'],
   ['Cape buffalo','🐃','Big Five','Hwange, Mana Pools, Gonarezhou','Large herds gather along rivers in the dry season.'],
